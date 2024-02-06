@@ -1,0 +1,10 @@
+Reforge:
+  null: 500
+  TRASH: 1000
+  COMMON: 5000
+Reroll:
+  null: 500
+AllowType:
+  - Sword
+Blacklist:
+  - ababa
